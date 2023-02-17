@@ -1,0 +1,3 @@
+This is a repo for students of Professor Kenneth Benoit's 2023 *Advanced Political Text Analysis* course for the ANU Online Summer School in Political Analysis, February 13-17, 2022. 
+
+The purpose of the code here is to show extremely basic usage of the Twitter Academic API, simple functions and functional programming, and an example of using the Google Custom Search API to find information of interest.

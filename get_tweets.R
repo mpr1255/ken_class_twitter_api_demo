@@ -77,7 +77,7 @@ getTweetArchives <- function(handle) {
         users = handle,
         start_tweets = "2020-01-01T00:00:00Z",
         end_tweets = "2022-02-15T00:00:00Z",
-        data_path = glue("./data/tweets/{handle}"),
+        data_path = glue("./data/tweets/{handle}_new"),
         n = 2000
     )
 }
