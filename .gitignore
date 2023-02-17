@@ -1,0 +1,14 @@
+*
+!*.R
+!*.Rmd
+!*.md
+!*.pdf
+!*.png
+!.jpg 
+LICENSE
+!/code/
+!/ms/
+!/presentation/
+!/appendix*/
+!/graphs/
+!.gitignore
